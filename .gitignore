@@ -1,2 +1,8 @@
 *~
-
+.ipynb_checkpoints*
+.DS_Store
+.idea*
+.python-version
+.vscode*
+*.log
+*.pkl
