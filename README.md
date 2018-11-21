@@ -9,6 +9,6 @@
 
 1. [0章](https://github.com/HumanomeLab/mlcourse/blob/master/0_data_prep_and_visualization.ipynb) : データの準備、可視化
 2. [1章](https://github.com/HumanomeLab/mlcourse/blob/master/1_machine_learning_with_features.ipynb) : 特徴量を利用した機械学習(SVM, Random Forest)
-3. [2章](https://github.com/HumanomeLab/mlcourse/blob/master/2_deep_learning_for_features.ipynb) : 特徴量を利用した深層学習
+3. [2章](https://github.com/HumanomeLab/mlcourse/blob/master/2_deep_learning_for_features.ipynb) : 特徴量を利用した深層学習　（PyTorchを利用して）
 4. [3章](https://github.com/HumanomeLab/mlcourse/blob/master/3_deep_learning_for_images.ipynb) : 画像を解析する深層学習
 5. [4章](https://github.com/HumanomeLab/mlcourse/blob/master/4_deep_learning_for_sequences.ipynb) : 配列を解析する深層学習
