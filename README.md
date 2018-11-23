@@ -1,5 +1,7 @@
 # 生命情報向けの機械学習入門
 
+文責：瀬々 潤（ヒューマノームラボ　＆ 産総研AIRC）
+
 この資料は、新学術領域「先進ゲノム支援」中級講習 (2018年11月実施) のために作成しました。
 
 このコースでは、機械学習を利用したクラス分類問題を、実問題を利用して一通り問いてみることに焦点をあてます。
@@ -12,3 +14,7 @@
 3. [2章](https://github.com/HumanomeLab/mlcourse/blob/master/2_deep_learning_for_features.ipynb) : 特徴量を利用した深層学習（PyTorchを利用して）
 4. [3章](https://github.com/HumanomeLab/mlcourse/blob/master/3_deep_learning_for_images.ipynb) : 画像を解析する深層学習
 5. [4章](https://github.com/HumanomeLab/mlcourse/blob/master/4_deep_learning_for_sequences.ipynb) : 配列を解析する深層学習
+
+---
+更新履歴：
+2018/11/21: 初版作成
